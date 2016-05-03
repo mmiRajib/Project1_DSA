@@ -1,6 +1,3 @@
-//                                           ITCS 6114/8114: Algorithms and Data Structures
-// 					      Programming Project 1: LZW Compression
-// 					            Md Rajib, mrajib@uncc.edu
 
 
 #include "lzw.h"
