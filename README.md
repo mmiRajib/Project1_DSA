@@ -1,9 +1,4 @@
 # Project1_DSA
-Implement Lempel-Ziv-Welch (LZW) algorithm:
-
-                    ITCS 6114/8114: Algorithms and Data Structures
-					      Programming Project 1: LZW Compression
-					            Md Rajib, mrajib@uncc.edu
 
 Program Design: 
 To implement Lempel-Ziv-Welch (LZW) algorithm, the overall program is divided into three parts. These are encoder, 
