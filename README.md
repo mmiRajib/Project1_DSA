@@ -1,5 +1,5 @@
 # Project1_DSA
-Implement Lempel-Ziv-Welch (LZW) algorithm
+Implement Lempel-Ziv-Welch (LZW) algorithm:
 
                     ITCS 6114/8114: Algorithms and Data Structures
 					      Programming Project 1: LZW Compression
